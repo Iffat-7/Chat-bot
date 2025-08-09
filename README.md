@@ -49,4 +49,5 @@ YOU: Hello!
 BOT: Hi there! How can I help you today?
 Type quit, exit, or bye to end the session.
 
-
+Credits
+Created with ❤️ and ✨ by Iffat & Nova
